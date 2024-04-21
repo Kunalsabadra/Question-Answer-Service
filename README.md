@@ -8,9 +8,7 @@ To set up the project on your local machine do the following steps:
 git clone  https://github.com/Kunalsabadra/Question_Answer_Service_Application.git
 ```
 
-2.Gon inside the sownloaded folder and install modules
-
-npm init
+2.Go inside the downloaded folder and install modules
 
 ```
 cd   Question_Answer_Service_Application && npm install
